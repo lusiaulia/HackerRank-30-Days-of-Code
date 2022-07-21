@@ -1,4 +1,3 @@
-!/usr/bin/env python3
 #Days 0 
 #Hello World
 input_string = input()
